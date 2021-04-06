@@ -7,8 +7,21 @@ Train file will be used for training the model, i.e. our model will learn from t
 Test file contains all the independent variables, but not the target variable. We will apply the model to predict the target variable for the test data.
   
  Screenshots 
+ --------------
+ 
+ Home
+ ----
   
 ![Home](https://user-images.githubusercontent.com/82017927/113676384-fd7f9a80-96d9-11eb-9b2c-1fd7359b0cc9.png)
+
+Report
+------
+
+![Report](https://user-images.githubusercontent.com/82017927/113676718-69620300-96da-11eb-9561-4d0b3895449a.png)
+
+
+
+
 
 
 
