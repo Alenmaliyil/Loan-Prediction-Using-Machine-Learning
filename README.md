@@ -6,5 +6,5 @@ For this problem, we have three CSV files: train, test, and sample submission.
 Train file will be used for training the model, i.e. our model will learn from this file. It contains all the independent variables and the target variable.
 Test file contains all the independent variables, but not the target variable. We will apply the model to predict the target variable for the test data.
 
-https://github.com/Alenmaliyil/Loan-Prediction-Using-Machine-Learning/issues/1#issue-851113203
+
 
