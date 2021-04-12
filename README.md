@@ -3,11 +3,9 @@ Loans are the core business of banks. The main profit comes directly from the lo
 
 Home
 
-![Home]
-(https://user-images.githubusercontent.com/82017927/114393506-b56be680-9bb7-11eb-99ff-29ed9c8935fb.png)
+![Home](https://user-images.githubusercontent.com/82017927/114393506-b56be680-9bb7-11eb-99ff-29ed9c8935fb.png)
 
 Report
 
-![Report]
-(https://user-images.githubusercontent.com/82017927/114393532-bd2b8b00-9bb7-11eb-8392-4e7295d98930.png)
+![Report](https://user-images.githubusercontent.com/82017927/114393532-bd2b8b00-9bb7-11eb-8392-4e7295d98930.png)
 
